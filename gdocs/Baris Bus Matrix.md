@@ -2,7 +2,7 @@
 
 Bus Matrix merupakan matriks yang digunakan untuk menunjukkan hubungan antara proses bisnis dengan dimensi yang digunakan dalam perancangan Data Warehouse. Setiap baris menunjukkan proses bisnis, sedangkan setiap kolom menunjukkan dimensi yang digunakan untuk mendukung analisis pada proses tersebut. Penyusunan Bus Matrix bertujuan untuk mengidentifikasi dimensi yang digunakan secara bersama oleh beberapa proses bisnis *(conformed dimensions)*. Dengan demikian, setiap proses bisnis dapat dianalisis secara terintegrasi menggunakan dimensi yang telah disepakati oleh tim.
 
-| Proses bisnis |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proses bisnis |Tanggal|Produk|Pelanggan|  |  |  |  |  |  |  |  |  |  |  |
 | :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Penjualan Online | 🇴 | 🇴 | 🇴 | 🇴 | 🇴 | 🇴 | 🇴 |  |  |  |  |  |  |  |
 | Penjualan Reseller | 🇴 | 🇴 |  | 🇴 | 🇴 | 🇴 | 🇴 | 🇴 | 🇴 |  |  |  |  |  |
