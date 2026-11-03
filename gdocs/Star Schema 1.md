@@ -36,4 +36,4 @@ Proses bisnis yang dipilih dalam perancangan Data Warehouse kelompok ini adalah 
    Berdasarkan pemilihan proses bisnis, penetapan grain, pemilihan dimensi, dan pemilihan fakta, diperoleh rancangan Star Schema v1 untuk proses pembelian AdventureWorks. Rancangan ini diharapkan dapat mendukung analisis nilai pembelian, kuantitas produk, performa vendor, serta ketepatan waktu pengiriman.  
      
 6. Diagram  
-  <img width="1263" height="873" alt="Image" src="https://github.com/user-attachments/assets/4a4ffb68-1281-405f-8615-c3842596bbcd" /> 
+<img width="1263" height="873" alt="Image" src="https://github.com/user-attachments/assets/b69f27c3-8d0e-4046-bc82-afe936a09583" />
