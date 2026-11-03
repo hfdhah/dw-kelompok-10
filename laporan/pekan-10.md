@@ -7,13 +7,13 @@ Status        	: Hijau / Kuning / Merah
 
 | Target Pekan Ini | Status | Bukti  |
 | ----- | ----- | ----- |
-| Membentuk tim dan peran di piagam proyek secara lengkap |  | ![][image1] |
-| Membuat 5 pertanyaan bisnis beserta fakta dan dimensinya |  | ![][image2] ![][image3] ![][image4] |
-| Membuat pernyataan grain dalam satu kalimat |  | ![][image5] |
-| Membuat schema versi 1 |  | ![][image6] ![][image7] ![][image8] ![][image9] |
-| Membuat baris bus matrix tim |  | ![][image10] |
-| Membuat profil data sumber: jumlah baris, rentang tanggal, jumlah NULL |  | ![][image11] ![][image12] ![][image13] ![][image14] ![][image15] |
-| Import database Adventure Works menggunakan MySQL di laptop tiap anggota |  | Dwi Yulianti ![][image16] Balqis trihapsari Adiratna ![][image17] Nur Hafidhah R ![][image18] Marsyanda Firlyandita ![][image19] Btari Adiella Duhita ![][image20]  |
+| Membentuk tim dan peran di piagam proyek secara lengkap | Hijau | ![][image1] |
+| Membuat 5 pertanyaan bisnis beserta fakta dan dimensinya | Hijau | ![][image2] ![][image3] ![][image4] |
+| Membuat pernyataan grain dalam satu kalimat | Hijau | ![][image5] |
+| Membuat schema versi 1 | Hijau | ![][image6] ![][image7] ![][image8] ![][image9] |
+| Membuat baris bus matrix tim | Hijau | ![][image10] |
+| Membuat profil data sumber: jumlah baris, rentang tanggal, jumlah NULL | Hijau | ![][image11] ![][image12] ![][image13] ![][image14] ![][image15] |
+| Import database Adventure Works menggunakan MySQL di laptop tiap anggota | Hijau | Dwi Yulianti ![][image16] Balqis trihapsari Adiratna ![][image17] Nur Hafidhah R ![][image18] Marsyanda Firlyandita ![][image19] Btari Adiella Duhita ![][image20]  |
 | Membuat repository github |  | ![][image21] Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
 
 2\. Kendala pengerjaan
