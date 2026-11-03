@@ -17,7 +17,7 @@ Status        	: Hijau / Kuning / Merah
 2. Balqis trihapsari Adiratna ![][image17] 
 3. Nur Hafidhah R <img width="959" height="516" alt="Image" src="https://github.com/user-attachments/assets/e406830b-ce28-4080-9803-90813271209e" /> 
 4. Marsyanda Firlyandita ![][image19] 
-5. Btari Adiella Duhita ![][image20]  |
+5. Btari Adiella Duhita ![][image20] |
 | Membuat repository github | Hijau | ![][image21] Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
 
 2\. Kendala pengerjaan
@@ -55,24 +55,6 @@ Tidak ada
 | Marsyanda Firlyandita | Data Modeler | Menerjemahkan kebutuhan bisnis ke 6 pertanyaan beserta fakta & dimensi Menentukan grain Melakukan profil data sumber pada database Import database Adventure Works |  |
 | Balqis Trihapsari Adiratna  | ETL Developer | Membantu mengerjakan Star Schema 1 Membantu mengerjakan baris bus matrix Membantu dalam pembuatan laporan progress Import database Adventure Works |  |
 | Dwi Yulianti | OLAP Developer | Membantu menganalisis fakta dan dimensi berdasarkan pertanyaan bisnis. Mempelajari struktur database AdventureWorks Membantu pengerjaan Star Schema dan Bus Matrix. Import database Adventure Works  |  |
-| Nur Hafidhah R  | Dashboard Developer | Membantu mengerjakan risiko pada piagam proyek Membantu membuat repository github Membantu dalam pembuatan laporan progress Import database Adventure Works | <img width="959" height="516" alt="Image" src="https://github.com/user-attachments/assets/bfdf935d-e5c4-4287-9ee9-400220e18067" />
-
-<img width="470" height="239" alt="Image" src="https://github.com/user-attachments/assets/91a5df9c-b9d7-4391-ac1a-f150d86279b4" />
-
-<img width="959" height="490" alt="Image" src="https://github.com/user-attachments/assets/3fcb6714-8edf-403f-b67b-912c530bac3c" />
-
-<img width="257" height="338" alt="Image" src="https://github.com/user-attachments/assets/be2fc196-4469-446d-adca-5ab859bebb47" />
-
-<img width="254" height="269" alt="Image" src="https://github.com/user-attachments/assets/9c4f82ad-c006-4507-bdb9-fce0f3788061" />
-
-<img width="248" height="287" alt="Image" src="https://github.com/user-attachments/assets/8e8a6950-a7c7-40d6-ad5e-6cc03dfb9f02" />
-
-<img width="252" height="297" alt="Image" src="https://github.com/user-attachments/assets/3d7efa0e-8a5c-4518-b643-4da91dd75eeb" />
-
-<img width="252" height="296" alt="Image" src="https://github.com/user-attachments/assets/8074ad2c-72e7-40cf-b245-b966765d61da" />
-
-<img width="252" height="328" alt="Image" src="https://github.com/user-attachments/assets/dba89def-5706-4e19-ab43-f27075be8f22" />
-
-<img width="251" height="140" alt="Image" src="https://github.com/user-attachments/assets/02d8182b-22d1-46ad-90bf-901cd9cb1c14" />|
+| Nur Hafidhah R  | Dashboard Developer | Membantu mengerjakan risiko pada piagam proyek Membantu membuat repository github Membantu dalam pembuatan laporan progress Import database Adventure Works | <img width="959" height="516" alt="Image" src="https://github.com/user-attachments/assets/bfdf935d-e5c4-4287-9ee9-400220e18067" /> <img width="470" height="239" alt="Image" src="https://github.com/user-attachments/assets/91a5df9c-b9d7-4391-ac1a-f150d86279b4" /> <img width="959" height="490" alt="Image" src="https://github.com/user-attachments/assets/3fcb6714-8edf-403f-b67b-912c530bac3c" /> <img width="257" height="338" alt="Image" src="https://github.com/user-attachments/assets/be2fc196-4469-446d-adca-5ab859bebb47" /> <img width="254" height="269" alt="Image" src="https://github.com/user-attachments/assets/9c4f82ad-c006-4507-bdb9-fce0f3788061" /> <img width="248" height="287" alt="Image" src="https://github.com/user-attachments/assets/8e8a6950-a7c7-40d6-ad5e-6cc03dfb9f02" /> <img width="252" height="297" alt="Image" src="https://github.com/user-attachments/assets/3d7efa0e-8a5c-4518-b643-4da91dd75eeb" /> <img width="252" height="296" alt="Image" src="https://github.com/user-attachments/assets/8074ad2c-72e7-40cf-b245-b966765d61da" /> <img width="252" height="328" alt="Image" src="https://github.com/user-attachments/assets/dba89def-5706-4e19-ab43-f27075be8f22" /> <img width="251" height="140" alt="Image" src="https://github.com/user-attachments/assets/02d8182b-22d1-46ad-90bf-901cd9cb1c14" /> |
 
 
