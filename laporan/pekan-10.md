@@ -14,7 +14,7 @@ Status        	: Hijau / Kuning / Merah
 | Membuat baris bus matrix tim | Hijau | ![][image10] |
 | Membuat profil data sumber: jumlah baris, rentang tanggal, jumlah NULL | Hijau | ![][image11] ![][image12] ![][image13] ![][image14] ![][image15] |
 | Import database Adventure Works menggunakan MySQL di laptop tiap anggota | Hijau | Dwi Yulianti ![][image16] Balqis trihapsari Adiratna ![][image17] Nur Hafidhah R ![][image18] Marsyanda Firlyandita ![][image19] Btari Adiella Duhita ![][image20]  |
-| Membuat repository github |  | ![][image21] Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
+| Membuat repository github | Hijau | ![][image21] Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
 
 2\. Kendala pengerjaan
 
