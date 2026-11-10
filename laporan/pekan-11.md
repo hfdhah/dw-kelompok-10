@@ -42,8 +42,8 @@ Tidak ada
 
 | Nama | Peran | Yang Dikerjakan Pekan Ini | Bukti Commit |
 | ----- | ----- | ----- | ----- |
-| Btari Adiella Duhita Salsabila | Project Manager (ketua tim) | Membuat Urutan Load Membantu membuat laporan progres |  |
-| Marsyanda Firlyandita | Data Modeler | Membuat Source to Target Mengerjakan Strategi SCD Merancang Star Schema v2 |  |
+| Btari Adiella Duhita Salsabila | Project Manager (ketua tim) | Membuat Urutan Load, Membantu membuat laporan progres |  |
+| Marsyanda Firlyandita | Data Modeler | Membuat Source to Target, Mengerjakan Strategi SCD, Merancang Star Schema v2 |  |
 | Balqis Trihapsari Adiratna  | ETL Developer |  |  |
-| Dwi Yulianti | OLAP Developer | Mengerjakan Desain Cube Membantu membuat laporan progres |  |
-| Nur Hafidhah R  | Dashboard Developer | Membuat wireframe dashboard Mengerjakan laporan progress pekan 11 |  |
+| Dwi Yulianti | OLAP Developer | Mengerjakan Desain Cube, Membantu membuat laporan progres |  |
+| Nur Hafidhah R  | Dashboard Developer | Membuat wireframe dashboard, Mengerjakan laporan progress pekan 11 |  |
