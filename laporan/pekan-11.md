@@ -7,12 +7,12 @@ Status        	: Hijau / Kuning / Merah
 
 | Target Pekan Ini | Status | Bukti  |
 | ----- | ----- | ----- |
-| Source-to-target mapping untuk setiap kolom dimensi dan fakta |  |  |
-| Strategi SCD tiap dimensi (tipe 0, 1, atau 2\) beserta alasannya |  |  |
-| Urutan load: staging, dimensi, lalu fakta |  |  |
-| Desain cube: dimensi, hierarki, dan measure |  |  |
-| Star schema versi 2 |  |  |
-| Wireframe Dashboard |  | <img width="827" height="628" alt="Image" src="https://github.com/user-attachments/assets/e6e38abb-dfed-482e-99f4-279978389c77" /> <img width="827" height="625" alt="Image" src="https://github.com/user-attachments/assets/e1f1748e-e408-4578-bfef-f6773bfd7d57" /> |
+| Source-to-target mapping untuk setiap kolom dimensi dan fakta | Hijau |  |
+| Strategi SCD tiap dimensi (tipe 0, 1, atau 2\) beserta alasannya | Hijau |  |
+| Urutan load: staging, dimensi, lalu fakta | Hijau |  |
+| Desain cube: dimensi, hierarki, dan measure | Hijau |  |
+| Star schema versi 2 | Hijau |  |
+| Wireframe Dashboard | Hijau | <img width="827" height="628" alt="Image" src="https://github.com/user-attachments/assets/e6e38abb-dfed-482e-99f4-279978389c77" /> <img width="827" height="625" alt="Image" src="https://github.com/user-attachments/assets/e1f1748e-e408-4578-bfef-f6773bfd7d57" /> |
 | Pentaho sudah bisa dibuka dan terhubung ke database sumber | Btari Adiella Duhita S Marsyanda Firlyandita Balqis Trihapsari Adiratna  Dwi Yulianti Nur Hafidhah R  | Marsyanda F. ![][image3]  |
 
 2\. Kendala pengerjaan
