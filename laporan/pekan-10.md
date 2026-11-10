@@ -35,11 +35,12 @@ Tidak ada
 
 | Target | Penanggung Jawab |
 | ----- | ----- |
-| Source-to-target mapping untuk setiap kolom dimensi dan fakta |  |
-| Strategi SCD tiap dimensi (tipe 0, 1, atau 2\) beserta alasannya |  |
+| Source-to-target mapping untuk setiap kolom dimensi dan fakta | Marsyanda Firlyandita |
+| Strategi SCD tiap dimensi (tipe 0, 1, atau 2\) beserta alasannya | Marsyanda Firlyandita |
 | Urutan load: staging, dimensi, lalu fakta |  |
 | Desain cube: dimensi, hierarki, dan measure |  |
-| Star schema versi 2 |  |
+| Star schema versi 2 | Marsyanda Firlyandita |
+| Dashboard Wireframe | Nur Hafidhah R |
 | Pentaho sudah bisa dibuka dan terhubung ke database sumber | Semua anggota tim |
 
 6\. Kontribusi anggota
