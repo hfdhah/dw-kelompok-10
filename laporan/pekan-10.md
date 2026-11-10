@@ -14,8 +14,7 @@ Status        	: Hijau / Kuning / Merah
 | Membuat baris bus matrix tim | Hijau | <img width="425" height="319" alt="Image" src="https://github.com/user-attachments/assets/936342fc-9fde-405a-9f62-ff5c074442e9" /> |
 | Membuat profil data sumber: jumlah baris, rentang tanggal, jumlah NULL | Hijau | <img width="423" height="360" alt="Image" src="https://github.com/user-attachments/assets/e942e28e-c0e5-4741-aa9a-757ffd1b097e" /> <img width="359" height="355" alt="Image" src="https://github.com/user-attachments/assets/ed3958a8-82e0-4569-b8c8-0b80a2207129" /> <img width="361" height="377" alt="Image" src="https://github.com/user-attachments/assets/ccd1614b-827e-4da4-8158-e4a1b2133b59" /> <img width="368" height="329" alt="Image" src="https://github.com/user-attachments/assets/1b2ecf4c-187d-456d-9823-11115f936e0e" /> <img width="362" height="371" alt="Image" src="https://github.com/user-attachments/assets/c1143341-d0ad-4616-b743-784befe48cb8" /> |
 | Import database Adventure Works menggunakan MySQL di laptop tiap anggota | Hijau | 1. Dwi Yulianti ![][image16] 2. Balqis trihapsari Adiratna ![][image17] 3. Nur Hafidhah R <img width="959" height="516" alt="Image" src="https://github.com/user-attachments/assets/e406830b-ce28-4080-9803-90813271209e" /> 4. Marsyanda Firlyandita <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/44f88803-8b0f-48f4-81ab-11d30ef09a16" />
- 5. Btari Adiella Duhita ![][image20] |
-| Membuat repository github | Hijau | Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
+ 5. Btari Adiella Duhita ![][image20] | | Membuat repository github | Hijau | Link akses: [https\://github.com/hfdhah/dw-kelompok-10](https://github.com/hfdhah/dw-kelompok-10)  |
 
 2\. Kendala pengerjaan
 
