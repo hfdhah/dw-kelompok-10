@@ -13,7 +13,7 @@ Status        	: Hijau / Kuning / Merah
 | Desain cube: dimensi, hierarki, dan measure | Hijau |  |
 | Star schema versi 2 | Hijau |  |
 | Wireframe Dashboard | Hijau | <img width="827" height="628" alt="Image" src="https://github.com/user-attachments/assets/e6e38abb-dfed-482e-99f4-279978389c77" /> <img width="827" height="625" alt="Image" src="https://github.com/user-attachments/assets/e1f1748e-e408-4578-bfef-f6773bfd7d57" /> |
-| Pentaho sudah bisa dibuka dan terhubung ke database sumber | Btari Adiella Duhita S Marsyanda Firlyandita Balqis Trihapsari Adiratna  Dwi Yulianti Nur Hafidhah R  | Marsyanda F. ![][image3]  |
+| Pentaho sudah bisa dibuka dan terhubung ke database sumber | Btari Adiella Duhita S Marsyanda Firlyandita Balqis Trihapsari Adiratna  Dwi Yulianti Nur Hafidhah R  |1.  Marsyanda F. ![][image3] 2.Dwi Yulianti 3. Nur Hafidhah R <img width="959" height="563" alt="Image" src="https://github.com/user-attachments/assets/385554a1-802e-4b30-8b74-e207eee9912d" />|
 
 2\. Kendala pengerjaan
 
