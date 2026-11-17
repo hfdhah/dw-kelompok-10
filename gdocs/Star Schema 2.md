@@ -7,4 +7,4 @@
 | tgl\_akhir\_efektif | DATE | Menandai kapan versi produk ini kedaluwarsa | 9999-12-31 (artinya masih berlaku selamanya) |
 | is\_current | CHAR(1) | Penanda cepat apakah ini data paling baru | 'Y' (Ya) atau 'N' (Tidak/Arsip) |
 
-<img width="999" height="748" alt="image" src="https://github.com/user-attachments/assets/e66ace05-7b8e-4e39-b8ca-c506cc656a12" />
+<img width="995" height="1539" alt="DWO_kel10_v2 (2)" src="https://github.com/user-attachments/assets/58c9181e-7fef-49cc-8daf-9143be9ebef1" />
